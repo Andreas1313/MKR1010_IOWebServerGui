@@ -1,2 +1,2 @@
-#define SECRET_SSID "FRITZ!Box 6670 ZS" //"pixel9a"
-#define SECRET_PASS "78466939812658674883" //"Sonne1313"
+#define SECRET_SSID "your_ssid"
+#define SECRET_PASS "passwordFromYourNetwork"
